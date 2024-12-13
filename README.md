@@ -1,17 +1,23 @@
-# Hi there! 👋 I'm Ashish Nehra
+<div align="center">
+
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Ashish Nehra
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashishnehra&color=blueviolet)
 
+</div>
+
 ## 🌟 About Me
 
-I'm a **Lab Assistant** at Amity University with a passion for **Technology** and **Innovation**. Driven by curiosity and exploration, I'm constantly learning new skills in **Go (Golang)**, **DevOps**, **SQL**, **Linux**, and **Cloud Technologies** like **AWS**, **Azure**, and **Google Cloud**.
+I am a tech enthusiast who believes in the power of **technology** to transform ideas into reality. I love exploring the latest advancements in the IT world and enjoy solving complex problems with innovative solutions. With a solid foundation in programming, cloud computing, and DevOps practices, I aim to bridge the gap between development and operations to deliver seamless, scalable, and efficient systems.
+
+Currently, I'm diving deeper into **Golang** and **DevOps**, along with mastering **SQL**, **Linux**, and **Cloud Technologies**. I strive to keep learning and improving, fueled by my curiosity and a passion for continuous growth. My goal is to contribute meaningfully to the tech community, build impactful solutions, and grow into a well-rounded IT professional.
 
 ## 🔍 Professional Overview
 
 ### 💡 Core Competencies
 - 🌐 **Go (Golang)**
 - 💻 **DevOps**
-- 🛠 **Lab Assistance & Research**
+- 🛠 **Problem-Solving & Research**
 - 🖥 **SQL Database Management**
 - 📂 **Linux Administration**
 - ☁️ **Cloud Computing (AWS, Azure, Google Cloud)**
@@ -40,7 +46,7 @@ I'm a **Lab Assistant** at Amity University with a passion for **Technology** an
 ### ☁️ Cloud Technologies
 <p>
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
     <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
 </p>
 
@@ -65,6 +71,7 @@ I'm a **Lab Assistant** at Amity University with a passion for **Technology** an
 </p>
 
 ### 🏆 Achievements
+---
 - 🌟 **Completed MCA and skilled in IT concepts**
 - 🏅 **Started learning DevOps, Golang, SQL, Linux, and Cloud Technologies**
 - 📈 **Striving to build expertise in IT, DevOps, and Cloud Solutions**
@@ -76,17 +83,12 @@ I'm a **Lab Assistant** at Amity University with a passion for **Technology** an
 
 ## 🤝 Let's Connect!
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishnehra/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishnehra)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=protonmail&logoColor=white)](https://your-portfolio-website.com)
 
-## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](link-to-post)
-- [Blog Post Title 2](link-to-post)
-- [Blog Post Title 3](link-to-post)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -96,4 +98,5 @@ I'm a **Lab Assistant** at Amity University with a passion for **Technology** an
 *Crafted with ❤️ by Ashish Nehra*
 
 ## 📈 Profile Trophy
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashishnehra&theme=radical&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
